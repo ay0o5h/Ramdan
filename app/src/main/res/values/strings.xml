@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="false">Ramadan</string>
+    <string name="todayـprayer" translatable="false"> Today\'s prayer </string>
+    <string name="the_prayer"> God, Ramadan purifies the heart and mind, and does not leave an idea or habit except its people and its goodness.</string>
+    <string name="prayerـtimes_for_today"> Prayer times for today</string>
+    <string name="prayerـswiep_times_for_today">Swiep to see Next Prayer time</string>
+    <string name="daybreak" translatable="false">Daybreak</string>
+    <string name="maghreb" translatable="false">Maghreb\'s </string>
+    <string name="maghreb_time" translatable="false">07:00pm</string>
+    <string name="the_next_prayer_is">The Next Prayer is</string>
+<string name="message_megrab_prayer">God accept your fasting🙏🏻 and enjoy your dinner 😄</string>
+</resources>
